@@ -1,7 +1,7 @@
 # redstone-armor-and-tools-legacy
 1.7.10 version of the Redstone Armor and Tools mod
 
-Adds:
+### Adds:
 • Redstone Sword
 
 • Redstone Axe
@@ -20,7 +20,7 @@ Adds:
 
 • Redstone Boots
 
-Features:
+### Features:
 • Armor is planned to react with Redstone when the hitboxes intersect with each other (Planned for future update)
 
 • Tools will power on Redstone for a short second when Right-Clicked (Planned for future update)
