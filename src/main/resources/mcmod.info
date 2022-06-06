@@ -1,0 +1,16 @@
+[
+    {
+      "modid": "${modId}",
+      "name": "${modName}",
+      "description": "Adds Redstone Armor and Tools to minecraft 1.7.10",
+      "version": "${modVersion}",
+      "mcversion": "${minecraftVersion}",
+      "url": "https://github.com/An12854/redstone-armor-and-tools-legacy",
+      "updateUrl": "",
+      "authorList": ["An12854"],
+      "credits": "",
+      "logoFile": "",
+      "screenshots": [],
+      "dependencies": []
+    }
+]

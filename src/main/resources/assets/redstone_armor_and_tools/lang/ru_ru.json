@@ -1,0 +1,13 @@
+{
+  "advancements.electric_slide.descr": "Оборудовать Редстоуновый нагрудник",
+  "item.redstone_armor_and_tools.redstone_shovel": "Редстоуновая лопата",
+  "item.redstone_armor_and_tools.redstone_armor_helmet": "Редстоуновый шлем",
+  "item.redstone_armor_and_tools.redstone_armor_leggings": "Редстоуновые поножи",
+  "item.redstone_armor_and_tools.redstone_armor_chestplate": "Редстоуновый нагрудник",
+  "item.redstone_armor_and_tools.redstone_axe": "Редстоуновый топор",
+  "item.redstone_armor_and_tools.redstone_hoe": "Редстоуновая мотыга",
+  "advancements.electric_slide.title": "Electricity!",
+  "item.redstone_armor_and_tools.redstone_pickaxe": "Редстоуновая кирка",
+  "item.redstone_armor_and_tools.redstone_armor_boots": "Редстоуновые ботинки",
+  "item.redstone_armor_and_tools.redstone_sword": "Редстоуновый меч"
+}
